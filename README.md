@@ -1,7 +1,7 @@
 # Parth Khanolkar
 ## Student | Frontend Developer | MERN stack developer 💻 | Volunteer 🎗️ | Outdoor enthusiast 🏕️ | ACOE'23
 
-### Seeking 🌏 Earth's code here, share if you unravel it 🙇🪄🔎.
+### Seeking 🌏 Earth's code here, share if you unravel it 🪄.
 
 #### Know Me 🙋🏻‍♂️
 Hey there! I am Parth, a 22 year old Final year IT engineer studying in ACOE, Mumbai University 🎓,
