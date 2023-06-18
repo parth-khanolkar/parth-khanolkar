@@ -1,10 +1,10 @@
 # Parth Khanolkar
-## Student | Frontend Developer | MERN stack developer 💻 | Volunteer 🎗️ | Outdoor enthusiast 🏕️ | ACOE'23
+## Frontend Developer | MERN stack developer 💻 | Volunteer 🎗️ | Outdoor enthusiast 🏕️ | ACOE'23
 
 ### Seeking 🌏 Earth's code here, share if you unravel it 🪄.
 
 #### Know Me 🙋🏻‍♂️
-Hey there! I am Parth, a 22 year old Final year IT engineer studying in ACOE, Mumbai University 🎓,
+Hey there! I am Parth, a IT engineer who is a full stack developer, Mumbai University 🎓,
 Web Dev Enthusiast, familiar with MERN stack, Front-end frameworks and JS libraries - React.js & Next.js⚡
 
 
@@ -46,7 +46,7 @@ const Parth = {
   status: 'Final year IT engineer', 'MERN stack developer',
   technologies: {
     frontEnd: [ 'HTML', 'CSS', 'ReactJS', 'Javascript', 'BootStrap', 'Tailwind CSS', 'Material UI' ],
-    backEnd: [ 'MySQL', 'NodeJS', 'ExpressJS', 'MongoDB' ],
+    backEnd: [ 'MySQL', 'NodeJS', 'ExpressJS', 'MongoDB','Django' ],
     other: [ 'Python']
   },
   askMeAbout: [ 'FrontEnd-Techs', 'Coding', 'Computer Engineering' ],
